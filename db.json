@@ -69,7 +69,43 @@
       "id": "14",
       "name": "Extra Items",
       "orgId": 2
+    },
+        {
+      "id": "15",
+      "name": "Starters",
+      "orgId": 2
+    },
+    {
+      "id": "16",
+      "name": "Main Course",
+      "orgId": 3
+    },
+    {
+      "id": "17",
+      "name": "Desserts",
+      "orgId": 3
+    },
+    {
+      "id": "18",
+      "name": "Beverages",
+      "orgId": 3
+    },
+    {
+      "id": "19",
+      "name": "Side Dishes",
+      "orgId": 3
+    },
+    {
+      "id": "20",
+      "name": "Specialty Items",
+      "orgId": 3
+    },
+    {
+      "id": "21",
+      "name": "Extra Items",
+      "orgId": 3
     }
+  ],
   ],
   "subcategories": [
     {
