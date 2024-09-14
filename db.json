@@ -1627,6 +1627,948 @@
     "categoryId": 2,
     "subcategoryId": 7,
         "orgId": 1
+  },
+    {
+    "id": 95,
+    "name": "Tomato Basil Soup",
+    "description": "A creamy soup made with ripe tomatoes and fresh basil, served with a drizzle of olive oil.",
+    "price": 150,
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/09/tomato-basil-soup-recipe-580x809.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+    "orgId": 2
+  },
+  {
+    "id": 96,
+    "name": "Mushroom Bisque",
+    "description": "Rich and creamy bisque made from a blend of assorted mushrooms, herbs, and a hint of garlic.",
+    "price": 180,
+    "image": "https://provincetownindependent.org/wp-content/uploads/2020/01/Shorr-Mushroom-Bisque-Photo-No-Credit-600x400.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+    "orgId": 2
+  },
+  {
+    "id": 97,
+    "name": "Butternut Squash Soup",
+    "description": "Smooth and velvety soup made from roasted butternut squash, ginger, and a touch of cream.",
+    "price": 170,
+    "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2022/11/Butternut-Squash-Soup-4-1025x1536.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+    "orgId": 2
+  },
+  {
+    "id": 98,
+    "name": "Vegetable Minestrone",
+    "description": "A hearty Italian-style soup with mixed vegetables, beans, and pasta, in a rich tomato broth.",
+    "price": 160,
+    "image": "https://minimalistbaker.com/wp-content/uploads/2017/08/PERFECT-1-Pot-Vegan-Minestrone-Vegetables-beans-pasta-SO-delicious-and-healthy-minestrone-soup-recipe-vegan-glutenfree-minimalistbaker-5-768x1152.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+    "orgId": 2
+  },
+  {
+    "id": 99,
+    "name": "Lentil Soup",
+    "description": "Comforting and nourishing soup made with lentils, carrots, celery, and spices.",
+    "price": 140,
+    "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/01/greek-red-lentil-soup-recipe-4-768x1152.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+     "orgId": 2
+  },
+  {
+    "id": 100,
+    "name": "Veg Clear Soup",
+    "description": "A light and clear soup with fresh vegetables.",
+    "price": 80,
+    "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-clear-soup-1-720x480.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+         "orgId": 2
+  },
+  {
+    "id": 101,
+    "name": "Veg Clear Soup 1/2",
+    "description": "A smaller serving of our light and clear vegetable soup.",
+    "price": 100,
+    "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-clear-soup-1-720x480.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+         "orgId": 2
+
+  },
+  {
+    "id": 102,
+    "name": "Veg Manchow Soup",
+    "description": "A spicy and tangy Chinese-style soup with mixed vegetables and crispy noodles.",
+    "price": 100,
+    "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
+    "categoryId": 1,
+    "subcategoryId": 1,
+         "orgId": 2
+
+  },
+  {
+    "id": 103,
+    "name": "Veg Manchow Soup 1/2",
+    "description": "A smaller serving of our spicy and tangy Chinese-style vegetable soup.",
+    "price": 130,
+    "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
+    "categoryId": 1,
+    "subcategoryId": 1,
+         "orgId": 2
+  },
+  {
+    "id": 104,
+    "name": "Veg Manchurian Soup",
+    "description": "Spicy soup with vegetable Manchurian balls in a flavorful broth.",
+    "price": 150,
+    "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
+    "categoryId": 1,
+    "subcategoryId": 1,
+        "orgId": 1
+  },
+  {
+    "id": 105,
+    "name": "Veg Tom yum Soup ",
+    "description": "A smaller serving of our spicy soup with vegetable Manchurian balls.",
+    "price": 160,
+    "image": "https://www.thespruceeats.com/thmb/8omoj5zmE0fM70g88SttPNRkHmI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vegetarian-tom-yum-soup-3217762-hero-01-4872510cb5f24d9480e7a2f4b8f23c57.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+        "orgId": 2
+  },
+  {
+    "id": 106,
+    "name": "Tomato Soup",
+    "description": "A classic, smooth tomato soup seasoned with herbs and spices.",
+    "price": 130,
+    "image": "https://cdn-lbppn.nitrocdn.com/TIvUOgkSVuwIZbJQMoNKauSIODDirNaR/assets/images/optimized/rev-3600644/daenskitchen.com/wp-content/uploads/2022/06/Tomato-Soup-Daens-Kitchen-High-Res-6-768x1023.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+        "orgId": 2
+  },
+  {
+    "id": 107,
+    "name": "Tomato Soup 1/2",
+    "description": "A smaller serving of our classic smooth tomato soup.",
+    "price": 160,
+    "image": "https://cdn-lbppn.nitrocdn.com/TIvUOgkSVuwIZbJQMoNKauSIODDirNaR/assets/images/optimized/rev-3600644/daenskitchen.com/wp-content/uploads/2022/06/Tomato-Soup-Daens-Kitchen-High-Res-6-768x1023.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+        "orgId": 2
+  },
+  
+  {
+    "id": 108,
+    "name": "Veg Garlic Soup",
+    "description": "Flavorful soup with roasted garlic and vegetables, seasoned to perfection.",
+    "price": 140,
+    "image": "https://i.ytimg.com/vi/r63FjYBi5XA/maxresdefault.jpg",
+    "categoryId": 1,
+    "subcategoryId": 1,
+        "orgId": 2
+  },
+  {
+    "id": 109,
+    "name": "Chicken Soup",
+    "description": "A classic chicken soup made with tender chicken pieces, vegetables, and herbs.",
+    "price": 180,
+    "image": "https://www.pressurecookrecipes.com/wp-content/uploads/2024/02/instant-pot-chicken-soup-770x556.webp",
+    "categoryId": 1,
+    "subcategoryId": 2,
+        "orgId": 2
+  },
+    {
+      "id": 110,
+      "name": "Seafood Chowder",
+      "description": "A rich and creamy soup with shrimp, clams, fish, and a hint of white wine.",
+      "price": 220,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XyQZ9UwXrzHfM4lrLX-G2Ut-DJfZpBAF3g&s",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 111,
+      "name": "Hot and Sour Chicken Soup",
+      "description": "Spicy and tangy soup with shredded chicken, mushrooms, and bamboo shoots.",
+      "price": 160,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xHNTAliSJmDN9LHKfgi_vH6q8E3nCt-1WQ&s",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 112,
+      "name": "Lamb Shank Soup",
+      "description": "A flavorful soup with slow-cooked lamb shanks, root vegetables, and aromatic spices.",
+      "price": 240,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FM9TPkzLxhVZ_CeZiBLD7Lyb61wAfnVbUw&s",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 113,
+      "name": "Thai Tom Yum Soup",
+      "description": "A spicy and sour Thai soup with shrimp, lemongrass, kaffir lime leaves, and chili.",
+      "price": 200,
+      "image": "https://www.allrecipes.com/thmb/6lh6z4C0JUCsLDGNk3WBQ0w1NIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7713245-9399026bd1234ae5958535e67736caa6.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 114,
+      "name": "Prawn Bisque",
+      "description": "A smooth and rich soup made from prawns, cream, and a hint of brandy.",
+      "price": 210,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5XS6_nJBcjkYkz55UFvmjTv4ZPFz2OUfpw&s",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 115,
+      "name": "Chicken and Corn Soup",
+      "description": "A comforting soup with tender chicken, sweet corn, and a light broth.",
+      "price": 170,
+      "image": "https://www.unileverfoodsolutions.lk/dam/global-ufs/mcos/meps/sri-lanka/calcmenu/recipes/LK-recipes/general/chicken-and-sweet-corn-soup/main-header.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 116,
+      "name": "chicken Barley Soup",
+      "description": "Hearty soup with beef chunks, barley, vegetables, and herbs.",
+      "price": 190,
+      "image": "https://kalynskitchen.com/wp-content/uploads/2012/02/1-chicken-barley-soup-500x500-kalynskitchen-320x320.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 117,
+      "name": "crab Soup",
+      "description": "Rich and flavorful soup made with tender duck meat, vegetables, and spices.",
+      "price": 250,
+      "image": "https://happietrio.com/wp-content/uploads/2018/05/NanduRasam2.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 118,
+      "name": "Spicy Shrimp Soup",
+      "description": "A bold soup with shrimp, chili, and a blend of spices.",
+      "price": 210,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVY2i94F_jJdYdVxdXAe3uUcwREpSrFmwYQ&s",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 119,
+      "name": "Chicken Clear Soup",
+      "description": "A light and clear soup made with tender chicken and vegetables.",
+      "price": 170,
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-clear-soup-1.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 120,
+      "name": "Sweet Corn Chicken Soup",
+      "description": "A comforting and sweet soup with corn and tender chicken pieces.",
+      "price": 180,
+      "image": "https://images.herzindagi.info/image/2021/Jul/corn-chicken-soup-main.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 121,
+      "name": "Crab Meat Soup",
+      "description": "Delicate and flavorful soup made with crab meat and a light broth.",
+      "price": 250,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYGl9l85nrM4YfO4f36jQgeIfBUhy5nWdgA&s",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 122,
+      "name": "Chettinad Chicken Soup",
+      "description": "Spicy and aromatic chicken soup with traditional Chettinad spices.",
+      "price": 200,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4d3mFBzxu3adQB86dYw3c7CAvmOh8TBZ0Ag&s",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 123,
+      "name": "Lung Fung Chicken Soup",
+      "description": "A Chinese-style soup with chicken, mushrooms, and a blend of spices.",
+      "price": 190,
+      "image": "https://i.ytimg.com/vi/JALxGxrPlZE/hqdefault.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 124,
+      "name": "Hot Sour Chicken Soup",
+      "description": "A tangy and spicy soup with shredded chicken, mushrooms, and a touch of vinegar.",
+      "price": 170,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4SAKVke_g_fakfmYgRWHuMP4Sq-BkPQ-6A&s",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 125,
+      "name": "Mutton Soup",
+      "description": "Rich and hearty soup made with tender mutton pieces and flavorful spices.",
+      "price": 220,
+      "image": "https://i.ytimg.com/vi/npUZoPXxqxM/maxresdefault.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 126,
+      "name": "Aatukkal Soup",
+      "description": "Traditional South Indian soup made with bone-in mutton and spices.",
+      "price": 230,
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2020/01/aatu-kaal-soup.jpg",
+      "categoryId": 1,
+      "subcategoryId": 2,
+          "orgId": 2
+    },
+    {
+      "id": 127,
+      "name": "Carrot Salad with Black Grape Dressing",
+      "description": "Freshly shredded carrots tossed with a tangy black grape dressing.",
+      "price": 120,
+      "image": "https://i.ndtvimg.com/i/2018-02/carrot-salad_620x350_51517485756.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 128,
+      "name": "Barley Salad",
+      "description": "Nutritious salad with barley, fresh vegetables, and a light vinaigrette.",
+      "price": 130,
+      "image": "https://i.ndtvimg.com/i/2015-09/barley-625_625x350_41441360371.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 129,
+      "name": "Green Bean Salad",
+      "description": "Crisp green beans mixed with a zesty lemon dressing and cherry tomatoes.",
+      "price": 110,
+      "image": "https://i.ndtvimg.com/i/2015-09/beans-625_625x350_41441360390.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 130,
+      "name": "Green Apple Salad",
+      "description": "Refreshing salad with green apples, celery, and a honey mustard dressing.",
+      "price": 140,
+      "image": "https://i.ndtvimg.com/i/2017-10/green-apple-salad_620x330_71509080200.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 131,
+      "name": "Leafy Salad with Walnuts",
+      "description": "A mix of fresh leafy greens topped with crunchy walnuts and a balsamic vinaigrette.",
+      "price": 150,
+      "image": "https://i.ndtvimg.com/i/2015-09/walnut_625x350_81441360462.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 132,
+      "name": "Pickled Beetroot with Feta",
+      "description": "Sweet and tangy pickled beetroot served with crumbled feta cheese and arugula.",
+      "price": 160,
+      "image": "https://i.ndtvimg.com/i/2015-09/beetroot-625_625x350_81441360540.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 133,
+      "name": "Chipotle and Toasted Walnut Wheat Berry Salad",
+      "description": "Hearty wheat berry salad with a smoky chipotle dressing and toasted walnuts.",
+      "price": 170,
+      "image": "https://i.ndtvimg.com/i/2017-10/chipotle-walnut-salad_620x330_61509081970.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 134,
+      "name": "Crunchy Ribbon Salad",
+      "description": "A colorful salad with ribbon-cut vegetables and a tangy citrus dressing.",
+      "price": 130,
+      "image": "https://i.ndtvimg.com/i/2015-09/ribon-salad-625_625x350_61441360635.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 135,
+      "name": "Mediterranean Watermelon Salad",
+      "description": "Refreshing watermelon salad with feta cheese, mint, and olives.",
+      "price": 180,
+      "image": "https://i.ndtvimg.com/i/2015-09/salad-625_625x350_81441360886.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 136,
+      "name": "Quinoa Lentil Salad",
+      "description": "Protein-packed salad with quinoa, lentils, and a medley of fresh vegetables.",
+      "price": 160,
+      "image": "https://i.ndtvimg.com/i/2015-09/quinoa-salad_625x350_81441360944.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 137,
+      "name": "Mixed Bean Salad",
+      "description": "A hearty salad with a mix of beans, corn, and a zesty lime dressing.",
+      "price": 140,
+      "image": "https://c.ndtvimg.com/2018-10/krs4msm8_bean-salad_625x300_19_October_18.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 138,
+      "name": "Paneer and Kheera Salad",
+      "description": "Fresh cucumber salad with chunks of paneer cheese and a light herb dressing.",
+      "price": 150,
+      "image": "https://c.ndtvimg.com/2021-07/403fd0vg_salad_625x300_22_July_21.jpg",
+      "categoryId": 1,
+      "subcategoryId": 3,
+          "orgId": 2
+    },
+    {
+      "id": 139,
+      "name": "Asian Mix Chicken Salad",
+      "description": "A vibrant salad with mixed greens, grilled chicken, and an Asian-inspired sesame dressing.",
+      "price": 200,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Asian-Mix-Chicken-Salad.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 140,
+      "name": "Caesar’s Chicken Salad",
+      "description": "Classic Caesar salad with grilled chicken, crispy croutons, and Parmesan cheese.",
+      "price": 220,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Caesars-Chicken-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 141,
+      "name": "Chicken Penne Pasta Salad",
+      "description": "A hearty salad with penne pasta, grilled chicken, vegetables, and a creamy dressing.",
+      "price": 210,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Chicken-Penne-Pasta-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 142,
+      "name": "Grilled Chicken Salad",
+      "description": "Fresh salad with grilled chicken, mixed greens, and a light vinaigrette.",
+      "price": 180,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Grilled-Chicken-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 143,
+      "name": "Hawaiian Chicken Salad",
+      "description": "Tropical salad with grilled chicken, pineapple, and a sweet and tangy dressing.",
+      "price": 190,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Hawaiian-Chicken-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 144,
+      "name": "Italian Chicken Salad",
+      "description": "Salad with grilled chicken, Italian herbs, olives, and a balsamic vinaigrette.",
+      "price": 200,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Italian-Chicken-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 145,
+      "name": "Mixed Lamb and Chicken Salad",
+      "description": "A robust salad with a mix of lamb and chicken, fresh vegetables, and a tangy dressing.",
+      "price": 220,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Mixed-Lamb-and-Chicken-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 146,
+      "name": "Mixed Meat Salad",
+      "description": "Hearty salad with a variety of meats including chicken, beef, and lamb, topped with fresh greens.",
+      "price": 240,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Mixed-Meat-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 147,
+      "name": "Russian Chicken Salad",
+      "description": "Traditional Russian salad with chicken, vegetables, and a creamy mayonnaise dressing.",
+      "price": 210,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Russian-Chicken-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 148,
+      "name": "Waldorf Chicken Salad",
+      "description": "Classic Waldorf salad with chicken, apples, walnuts, and a light yogurt dressing.",
+      "price": 200,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Waldorf-Chicken-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 149,
+      "name": "Zucchini with Potato Salad",
+      "description": "A hearty salad with tender zucchini, potatoes, and a zesty lemon dressing.",
+      "price": 180,
+      "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Zucchini-and-Potato-Salad-420x420.jpg",
+      "categoryId": 1,
+      "subcategoryId": 4,
+          "orgId": 2
+    },
+    {
+      "id": 150,
+      "name": "veg Manchurian",
+      "description": "Assorted vegetables dipped in a spiced gram flour batter and deep-fried until crispy.",
+      "price": 120,
+      "image": "https://www.chitskitchen.com/wp-content/uploads/2021/12/Main-01.jpeg",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 151,
+      "name": "paneer 65",
+      "description": "Crispy pastry filled with a spiced potato and pea mixture, deep-fried to perfection.",
+      "price": 130,
+      "image": "https://www.chitskitchen.com/wp-content/uploads/2021/12/Main-01.jpeg",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 152,
+      "name": "Aloo Tikki",
+      "description": "Spicy, crispy potato patties served with chutneys and yogurt.",
+      "price": 140,
+      "image": "https://www.indianveggiedelight.com/wp-content/uploads/2023/07/aloo-tikki.jpg",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 153,
+      "name": "italian pasta",
+      "description": "Steamed savory cake made from fermented rice and chickpea flour, garnished with mustard seeds and curry leaves.",
+      "price": 120,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Pasta-alla-norma-87c54fc.jpg?quality=90&resize=556,505",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 154,
+      "name": "Paneer Tikka",
+      "description": "Chunks of paneer marinated in spiced yogurt and grilled until smoky and charred.",
+      "price": 160,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2WY2YmIJtXrpmDToEHwJIOAcyBefjpFwXg&s",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 155,
+      "name": "Vegetable Spring Rolls",
+      "description": "Crispy rolls filled with a mix of spiced vegetables, perfect for dipping in sauces.",
+      "price": 150,
+      "image": "https://i0.wp.com/thetwincookingproject.net/wp-content/uploads/2020/04/Chinese-Style-Vegetable-Spring-Rolls13.jpg?fit=1667%2C2500&ssl=1",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 156,
+      "name": "Vegetable Kachori",
+      "description": "Spicy stuffed pastry with a filling of mixed vegetables and spices, deep-fried until golden brown.",
+      "price": 130,
+      "image": "https://media.vogue.in/wp-content/uploads/2020/09/lilva-ni-kachori-1920x1080.jpg",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 157,
+      "name": "Corn and Cheese Balls",
+      "description": "Deep-fried balls made from sweet corn and cheese, seasoned with herbs and spices.",
+      "price": 150,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lUkrwO4_tLnqhl5acVxKMvBgqqVUuQFogw&s",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 158,
+      "name": "veg nuggets",
+      "description": "Mixed vegetable fritters served with spicy chutneys, a popular snack from Maharashtra.",
+      "price": 140,
+      "image": "https://madhurasrecipe.com/wp-content/uploads/2022/02/veg_nuggets_featured.jpg",
+      "categoryId": 1,
+      "subcategoryId": 5,
+          "orgId": 2
+    },
+    {
+      "id": 159,
+      "name": "Chicken Tikka",
+      "description": "Marinated chicken chunks grilled to perfection, infused with spices and yogurt.",
+      "price": 200,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tandoorimumbai.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 160,
+      "name": "Fish Amritsari",
+      "description": "Deep-fried fish fillets coated in a spiced gram flour batter, a popular snack from Amritsar.",
+      "price": 220,
+      "image": "https://sinfullyspicy.com/wp-content/uploads/2022/07/1200-by-1200-images-4.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 161,
+      "name": "Mutton Shami Kebabs",
+      "description": "Tender mutton patties made from ground meat, lentils, and spices, shallow-fried until crisp.",
+      "price": 250,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEBTvyGYpnf4Z7avNPE3ST4nOYhNaKbjsyQ&s",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 162,
+      "name": "Crispy Chicken wings",
+      "description": "Spicy chicken pieces dipped in a gram flour batter and deep-fried until crispy.",
+      "price": 180,
+      "image": "https://www.allrecipes.com/thmb/Dqn-wx0S77ag4mfgWBfRBWBVuYo=/160x90/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-187822-baked-chicken-wings-4x3-5c7b4624c8554f3da5aabb7d3a91a209.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 163,
+      "name": "Seekh Kebabs",
+      "description": "Minced meat skewers seasoned with spices and grilled to smoky perfection.",
+      "price": 240,
+      "image": "https://cdn.culinarywonderland.com/photo/ra/ranveerbrar_muttonseekhkebab_recipe_902790.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 164,
+      "name": "Prawn Tempura",
+      "description": "Crispy fried prawns coated in a light tempura batter, served with dipping sauces.",
+      "price": 230,
+      "image": "https://mogushop.asia/cdn/shop/articles/tempura-1_orig_750x.jpg?v=1589562939",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 165,
+      "name": "Tandoori Lamb Chops",
+      "description": "Marinated lamb chops grilled in a tandoor, offering a smoky flavor and tender texture.",
+      "price": 270,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77qpAcg5gpbaqlpJvHCtLi4ruaZ1VF9Pw9Q&s",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 166,
+      "name": "Chicken Nuggets",
+      "description": "Breaded and fried chicken pieces, served with a variety of dipping sauces.",
+      "price": 160,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcjP0DfCSDh7kXZtBnThkF6UyI1I3m8K1Jw&s",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 167,
+      "name": "Stuffed Chicken Wings",
+      "description": "Chicken wings stuffed with a flavorful filling, then baked or fried until crispy.",
+      "price": 190,
+      "image": "https://www.keyingredient.com/media/dd/4b/2174433c8f447dd4d69ac2b9653be13c72e4.jpg/rh/cambodian-stuffed-chicken-wings.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 168,
+      "name": "Mutton Kebab Rolls",
+      "description": "Spiced mutton kebabs wrapped in a flatbread with fresh vegetables and sauces.",
+      "price": 260,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sHVNYMjq5BrEl78GZfgqKBLFdOT3VR0D2Q&s",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 169,
+      "name": "Murg Malai Tikka",
+      "description": "Tender chicken pieces marinated in a creamy, spiced yogurt mixture and grilled to perfection.",
+      "price": 220,
+      "image": "https://www.easycookingwithmolly.com/wp-content/uploads/2018/06/Indian-yogurt-mint-chicken-kebabs.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 170,
+      "name": "Tandoori Prawns",
+      "description": "Juicy prawns marinated in a blend of spices and yogurt, grilled to a smoky perfection.",
+      "price": 240,
+      "image": "https://glebekitchen.com/wp-content/uploads/2021/11/tandoorishrimptoppan.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 171,
+      "name": "Chicken Seekh Kebabs",
+      "description": "Spiced minced chicken skewers grilled until golden and juicy, a popular Indian snack.",
+      "price": 210,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgK555PRUVCI7DACEa7uus5pErbSodU28oNw&s",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 172,
+      "name": "Mutton Keema Samosa",
+      "description": "Crispy pastry filled with spiced minced mutton, deep-fried until golden brown.",
+      "price": 200,
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Best-Keema-Samosa-1.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 173,
+      "name": "Chicken Kathi Roll",
+      "description": "Grilled chicken wrapped in a flatbread with fresh vegetables and tangy sauces.",
+      "price": 190,
+      "image": "https://y6u5y7e3.rocketcdn.me/wp-content/uploads/2020/10/kathi-YouTube.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 174,
+      "name": "Bacon-Wrapped Chicken Bites",
+      "description": "Chicken pieces wrapped in crispy bacon, seasoned with herbs and spices.",
+      "price": 250,
+      "image": "https://www.barbarabakes.com/wp-content/uploads/2015/01/Bacon-Wrapped-Chicken-Stuffed-Jalapeno-Bites.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 175,
+      "name": "Mutton Kofta",
+      "description": "Spiced meatballs made from minced mutton, served with a variety of chutneys.",
+      "price": 230,
+      "image": "https://res.cloudinary.com/dhsjpmqz9/f_auto,q_auto,w_700,c_fill,g_auto/Mutton_Kofta_oz6q9a",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 176,
+      "name": "Chicken Malai Kebab",
+      "description": "Chicken pieces marinated in a rich cream and spice mixture, then grilled until tender.",
+      "price": 240,
+      "image": "https://www.kothiyavunu.com/wp-content/uploads/2013/03/Chicken-Malai-Tikka-Afghan-Murg-Malai-Tikka-Kabab-28229.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 177,
+      "name": "Fish Tikka",
+      "description": "Marinated fish fillets grilled with a smoky flavor, perfect for a savory snack.",
+      "price": 220,
+      "image": "https://static.toiimg.com/thumb/55226065.cms?width=1200&height=900",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },
+    {
+      "id": 178,
+      "name": "Chicken Pakora",
+      "description": "Chicken pieces dipped in a spiced gram flour batter and deep-fried until crispy.",
+      "price": 180,
+      "image": "https://yummyindiankitchen.com/wp-content/uploads/2015/12/chicken-pakoda-recipe-chicken-pakodi.jpg",
+      "categoryId": 1,
+      "subcategoryId": 6,
+          "orgId": 2
+    },{
+    "id": 179,
+    "name": "Saffron Veg Biryani",
+    "description": "Fragrant basmati rice cooked with mixed vegetables, saffron, and aromatic spices.",
+    "price": 220,
+    "image": "https://img.freepik.com/premium-photo/delicious-veg-biryani-with-saffron-hint_1179130-187766.jpg?w=740",
+    "categoryId": 2,
+    "subcategoryId": 7,
+          "orgId": 2
+  },
+  {
+    "id": 180,
+    "name": "Hyderabadi Vegetable Biryani",
+    "description": "A traditional Hyderabadi-style biryani made with basmati rice, mixed vegetables, and a blend of exotic spices.",
+    "price": 240,
+    "image": "https://www.cookshideout.com/wp-content/uploads/2017/03/Hyderabadi-Veg-Biryani-Thali3S-720x1084.jpg",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
+  },
+  {
+    "id": 181,
+    "name": "Mushroom and Peas Biryani",
+    "description": "Flavorful basmati rice cooked with mushrooms, peas, and a mix of Indian spices.",
+    "price": 230,
+    "image": "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2016/08/Mushroom-Corn-Peas-Pulao.jpg?w=736&ssl=1",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
+  },
+  {
+    "id": 182,
+    "name": "Palak Vegetable Biryani",
+    "description": "Healthy spinach-based biryani with mixed vegetables and aromatic spices.",
+    "price": 210,
+    "image": "https://www.indianveggiedelight.com/wp-content/uploads/2019/06/palak_biryani-1-768x1024.jpg",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
+  },
+  {
+    "id": 183,
+    "name": "Kashmiri Pulao Biryani",
+    "description": "Mild and sweet biryani cooked with basmati rice, nuts, dry fruits, and mild spices.",
+    "price": 250,
+    "image": "https://i0.wp.com/aartimadan.com/wp-content/uploads/2020/12/Kashmiri-Pulao.jpg?resize=768%2C431&ssl=1",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
+  },
+  {
+    "id": 184,
+    "name": "Sag Paneer Biryani",
+    "description": "Spinach-based biryani with paneer cubes, cooked with basmati rice and Indian spices.",
+    "price": 240,
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Instant-Pot-Paneer-Biryani.jpg",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
+  },
+  {
+    "id": 185,
+    "name": "Veg Jalfrezi Biryani",
+    "description": "Spicy biryani with mixed vegetables, peppers, onions, and a tangy tomato-based sauce.",
+    "price": 230,
+    "image": "https://i0.wp.com/www.blissofcooking.com/wp-content/uploads/2018/07/Vegetable-Jalfrezi-Feature.jpg?w=720&ssl=1",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
+  },
+  {
+    "id": 186,
+    "name": "Mughlai Vegetable Biryani",
+    "description": "Rich and aromatic biryani made with basmati rice, vegetables, and a blend of Mughlai spices.",
+    "price": 260,
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/12/mughlai-veg-biryani-recipe.jpg",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
+  },
+  {
+    "id": 187,
+    "name": "Tawa Vegetable Biryani",
+    "description": "A unique biryani cooked on a flat tawa, with vegetables, spices, and basmati rice.",
+    "price": 220,
+    "image": "https://www.foodfusion.com/wp-content/uploads/2018/07/Tawa-Biryani-Recipe-by-Food-Fusion-1.jpg",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
+  },
+  {
+    "id": 188,
+    "name": "Awadhi Vegetable Biryani",
+    "description": "Aromatic biryani from the Awadhi cuisine, made with vegetables, basmati rice, and mild spices.",
+    "price": 240,
+    "image": "https://cookwithrenu.com/wp-content/uploads/2019/04/Awadhi-Vegetable-Biryani_4.jpg.webp",
+    "categoryId": 2,
+    "subcategoryId": 7,
+        "orgId": 2
   }
   ],
   "history": [
