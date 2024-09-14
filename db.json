@@ -1633,8 +1633,8 @@
     "description": "A creamy soup made with ripe tomatoes and fresh basil, served with a drizzle of olive oil.",
     "price": 150,
     "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/09/tomato-basil-soup-recipe-580x809.jpg",
-    "categoryId": 1,
-    "subcategoryId": 1,
+    "categoryId": 3,
+    "subcategoryId": 8,
     "orgId": 2
   },
   {
@@ -1643,8 +1643,8 @@
     "description": "Rich and creamy bisque made from a blend of assorted mushrooms, herbs, and a hint of garlic.",
     "price": 180,
     "image": "https://provincetownindependent.org/wp-content/uploads/2020/01/Shorr-Mushroom-Bisque-Photo-No-Credit-600x400.jpg",
-    "categoryId": 1,
-    "subcategoryId": 1,
+    "categoryId": 3,
+    "subcategoryId": 8,
     "orgId": 2
   },
   {
@@ -1653,7 +1653,7 @@
     "description": "Smooth and velvety soup made from roasted butternut squash, ginger, and a touch of cream.",
     "price": 170,
     "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2022/11/Butternut-Squash-Soup-4-1025x1536.jpg",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
     "orgId": 2
   },
@@ -1663,7 +1663,7 @@
     "description": "A hearty Italian-style soup with mixed vegetables, beans, and pasta, in a rich tomato broth.",
     "price": 160,
     "image": "https://minimalistbaker.com/wp-content/uploads/2017/08/PERFECT-1-Pot-Vegan-Minestrone-Vegetables-beans-pasta-SO-delicious-and-healthy-minestrone-soup-recipe-vegan-glutenfree-minimalistbaker-5-768x1152.jpg",
-    "categoryId": 1,
+    "categoryId": 3
     "subcategoryId": 1,
     "orgId": 2
   },
@@ -1673,7 +1673,7 @@
     "description": "Comforting and nourishing soup made with lentils, carrots, celery, and spices.",
     "price": 140,
     "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/01/greek-red-lentil-soup-recipe-4-768x1152.jpg",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
      "orgId": 2
   },
@@ -1683,7 +1683,7 @@
     "description": "A light and clear soup with fresh vegetables.",
     "price": 80,
     "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-clear-soup-1-720x480.jpg",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
          "orgId": 2
   },
@@ -1693,7 +1693,7 @@
     "description": "A smaller serving of our light and clear vegetable soup.",
     "price": 100,
     "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-clear-soup-1-720x480.jpg",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
          "orgId": 2
 
@@ -1704,7 +1704,7 @@
     "description": "A spicy and tangy Chinese-style soup with mixed vegetables and crispy noodles.",
     "price": 100,
     "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
          "orgId": 2
 
@@ -1715,7 +1715,7 @@
     "description": "A smaller serving of our spicy and tangy Chinese-style vegetable soup.",
     "price": 130,
     "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
          "orgId": 2
   },
@@ -1725,7 +1725,7 @@
     "description": "Spicy soup with vegetable Manchurian balls in a flavorful broth.",
     "price": 150,
     "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
         "orgId": 1
   },
@@ -1735,7 +1735,7 @@
     "description": "A smaller serving of our spicy soup with vegetable Manchurian balls.",
     "price": 160,
     "image": "https://www.thespruceeats.com/thmb/8omoj5zmE0fM70g88SttPNRkHmI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vegetarian-tom-yum-soup-3217762-hero-01-4872510cb5f24d9480e7a2f4b8f23c57.jpg",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
         "orgId": 2
   },
@@ -1745,7 +1745,7 @@
     "description": "A classic, smooth tomato soup seasoned with herbs and spices.",
     "price": 130,
     "image": "https://cdn-lbppn.nitrocdn.com/TIvUOgkSVuwIZbJQMoNKauSIODDirNaR/assets/images/optimized/rev-3600644/daenskitchen.com/wp-content/uploads/2022/06/Tomato-Soup-Daens-Kitchen-High-Res-6-768x1023.jpg",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
         "orgId": 2
   },
@@ -1755,7 +1755,7 @@
     "description": "A smaller serving of our classic smooth tomato soup.",
     "price": 160,
     "image": "https://cdn-lbppn.nitrocdn.com/TIvUOgkSVuwIZbJQMoNKauSIODDirNaR/assets/images/optimized/rev-3600644/daenskitchen.com/wp-content/uploads/2022/06/Tomato-Soup-Daens-Kitchen-High-Res-6-768x1023.jpg",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
         "orgId": 2
   },
@@ -1766,7 +1766,7 @@
     "description": "Flavorful soup with roasted garlic and vegetables, seasoned to perfection.",
     "price": 140,
     "image": "https://i.ytimg.com/vi/r63FjYBi5XA/maxresdefault.jpg",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 1,
         "orgId": 2
   },
@@ -1776,7 +1776,7 @@
     "description": "A classic chicken soup made with tender chicken pieces, vegetables, and herbs.",
     "price": 180,
     "image": "https://www.pressurecookrecipes.com/wp-content/uploads/2024/02/instant-pot-chicken-soup-770x556.webp",
-    "categoryId": 1,
+    "categoryId": 3,
     "subcategoryId": 2,
         "orgId": 2
   },
@@ -1786,7 +1786,7 @@
       "description": "A rich and creamy soup with shrimp, clams, fish, and a hint of white wine.",
       "price": 220,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XyQZ9UwXrzHfM4lrLX-G2Ut-DJfZpBAF3g&s",
-      "categoryId": 1,
+      "categoryId": 3,
       "subcategoryId": 2,
           "orgId": 2
     },
