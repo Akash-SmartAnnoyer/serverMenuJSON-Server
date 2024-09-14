@@ -302,193 +302,193 @@
     {
       "id": 33,
       "name": "Vegetarian Soups",
-      "categoryId": 1,
+      "categoryId": 7,
       "orgId": 2
     },
     {
       "id": 34,
       "name": "Non-Vegetarian Soups",
-      "categoryId": 1,
+      "categoryId": 7,
       "orgId": 2
     },
     {
       "id": 35,
       "name": "Vegetarian Salads",
-      "categoryId": 1,
+      "categoryId": 7,
       "orgId": 2
     },
     {
       "id": 36,
       "name": "Non-Vegetarian Salads",
-      "categoryId": 1,
+      "categoryId": 7,
       "orgId": 2
     },
     {
       "id": 37,
       "name": "Vegetarian Finger Foods",
-      "categoryId": 1,
+      "categoryId": 7,
       "orgId": 2
     },
     {
       "id": 38,
       "name": "Non-Vegetarian Finger Foods",
-      "categoryId": 1,
+      "categoryId": 7,
       "orgId": 2
     },
     {
       "id": 39,
       "name": "Vegetarian Biryanis",
-      "categoryId": 2,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 40,
       "name": "Non-Vegetarian Biryanis",
-      "categoryId": 2,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 41,
       "name": "Vegetarian Pulavs",
-      "categoryId": 2,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 42,
       "name": "Non-Vegetarian Pulavs",
-      "categoryId": 2,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 43,
       "name": "Vegetarian Curries",
-      "categoryId": 2,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 44,
       "name": "Non-Vegetarian Curries",
-      "categoryId": 2,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 45,
       "name": "Vegetarian Pasta/Rice Dishes",
-      "categoryId": 2,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 46,
       "name": "Non-Vegetarian Pasta/Rice Dishes",
-      "categoryId": 2,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 47,
       "name": "Vegetarian Ice Creams",
-      "categoryId": 3,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 48,
       "name": "Non-Vegetarian Ice Creams",
-      "categoryId": 3,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 96,
       "name": "Vegetarian Cakes",
-      "categoryId": 3,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 49,
       "name": "Non-Vegetarian Cakes",
-      "categoryId": 3,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 50,
       "name": "Vegetarian Pastries",
-      "categoryId": 3,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 51,
       "name": "Non-Vegetarian Pastries",
-      "categoryId": 3,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 52,
       "name": "Hot Beverages",
-      "categoryId": 4,
+      "categoryId": 10,
       "orgId": 2
     },
     {
       "id": 53,
       "name": "Cold Beverages",
-      "categoryId": 4,
+      "categoryId": 10,
       "orgId": 2
     },
     {
       "id": 54,
       "name": "Vegetarian Vegetables",
-      "categoryId": 5,
+      "categoryId": 11,
       "orgId": 2
     },
     {
       "id": 55,
       "name": "Non-Vegetarian Vegetables",
-      "categoryId": 5,
+      "categoryId": 11,
       "orgId": 2
     },
     {
       "id": 56,
       "name": "Vegetarian Potatoes",
-      "categoryId": 5,
+      "categoryId": 11,
       "orgId": 2
     },
     {
       "id": 57,
       "name": "Non-Vegetarian Potatoes",
-      "categoryId": 5,
+      "categoryId": 11,
       "orgId": 2
     },
     {
       "id": 58,
       "name": "Vegetarian Grains",
-      "categoryId": 5,
+      "categoryId": 11,
       "orgId": 2
     },
     {
       "id": 59,
       "name": "Non-Vegetarian Grains",
-      "categoryId": 5,
+      "categoryId": 11,
       "orgId": 2
     },
     {
       "id": 60,
       "name": "Vegetarian Chef's Specials",
-      "categoryId": 6,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 61,
       "name": "Non-Vegetarian Chef's Specials",
-      "categoryId": 6,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 62,
       "name": "Vegetarian Seasonal Dishes",
-      "categoryId": 6,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 63,
       "name": "Non-Vegetarian Seasonal Dishes",
-      "categoryId": 6,
+      "categoryId": 12,
       "orgId": 2
     },
     {
