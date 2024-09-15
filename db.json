@@ -338,157 +338,157 @@
     {
       "id": 39,
       "name": "Vegetarian Biryanis",
-      "categoryId": 8,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 40,
       "name": "Non-Vegetarian Biryanis",
-      "categoryId": 8,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 41,
       "name": "Vegetarian Pulavs",
-      "categoryId": 8,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 42,
       "name": "Non-Vegetarian Pulavs",
-      "categoryId": 8,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 43,
       "name": "Vegetarian Curries",
-      "categoryId": 8,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 44,
       "name": "Non-Vegetarian Curries",
-      "categoryId": 8,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 45,
       "name": "Vegetarian Pasta/Rice Dishes",
-      "categoryId": 8,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 46,
       "name": "Non-Vegetarian Pasta/Rice Dishes",
-      "categoryId": 8,
+      "categoryId": 9,
       "orgId": 2
     },
     {
       "id": 47,
       "name": "Vegetarian Ice Creams",
-      "categoryId": 9,
+      "categoryId": 10,
       "orgId": 2
     },
     {
       "id": 48,
       "name": "Non-Vegetarian Ice Creams",
-      "categoryId": 9,
+      "categoryId": 10,
       "orgId": 2
     },
     {
       "id": 96,
       "name": "Vegetarian Cakes",
-      "categoryId": 9,
+      "categoryId": 10,
       "orgId": 2
     },
     {
       "id": 49,
       "name": "Non-Vegetarian Cakes",
-      "categoryId": 9,
+      "categoryId": 10,
       "orgId": 2
     },
     {
       "id": 50,
       "name": "Vegetarian Pastries",
-      "categoryId": 9,
+      "categoryId": 10,
       "orgId": 2
     },
     {
       "id": 51,
       "name": "Non-Vegetarian Pastries",
-      "categoryId": 9,
+      "categoryId": 10,
       "orgId": 2
     },
     {
       "id": 52,
       "name": "Hot Beverages",
-      "categoryId": 10,
+      "categoryId": 11,
       "orgId": 2
     },
     {
       "id": 53,
       "name": "Cold Beverages",
-      "categoryId": 10,
+      "categoryId": 11,
       "orgId": 2
     },
     {
       "id": 54,
       "name": "Vegetarian Vegetables",
-      "categoryId": 11,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 55,
       "name": "Non-Vegetarian Vegetables",
-      "categoryId": 11,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 56,
       "name": "Vegetarian Potatoes",
-      "categoryId": 11,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 57,
       "name": "Non-Vegetarian Potatoes",
-      "categoryId": 11,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 58,
       "name": "Vegetarian Grains",
-      "categoryId": 11,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 59,
       "name": "Non-Vegetarian Grains",
-      "categoryId": 11,
+      "categoryId": 12,
       "orgId": 2
     },
     {
       "id": 60,
       "name": "Vegetarian Chef's Specials",
-      "categoryId": 12,
+      "categoryId": 13,
       "orgId": 2
     },
     {
       "id": 61,
       "name": "Non-Vegetarian Chef's Specials",
-      "categoryId": 12,
+      "categoryId": 13,
       "orgId": 2
     },
     {
       "id": 62,
       "name": "Vegetarian Seasonal Dishes",
-      "categoryId": 12,
+      "categoryId": 13,
       "orgId": 2
     },
     {
       "id": 63,
       "name": "Non-Vegetarian Seasonal Dishes",
-      "categoryId": 12,
+      "categoryId": 13,
       "orgId": 2
     },
     {
@@ -2186,8 +2186,8 @@
       "description": "Assorted vegetables dipped in a spiced gram flour batter and deep-fried until crispy.",
       "price": 120,
       "image": "https://www.chitskitchen.com/wp-content/uploads/2021/12/Main-01.jpeg",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2196,8 +2196,8 @@
       "description": "Crispy pastry filled with a spiced potato and pea mixture, deep-fried to perfection.",
       "price": 130,
       "image": "https://www.chitskitchen.com/wp-content/uploads/2021/12/Main-01.jpeg",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2206,8 +2206,8 @@
       "description": "Spicy, crispy potato patties served with chutneys and yogurt.",
       "price": 140,
       "image": "https://www.indianveggiedelight.com/wp-content/uploads/2023/07/aloo-tikki.jpg",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2216,8 +2216,8 @@
       "description": "Steamed savory cake made from fermented rice and chickpea flour, garnished with mustard seeds and curry leaves.",
       "price": 120,
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Pasta-alla-norma-87c54fc.jpg?quality=90&resize=556,505",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2226,8 +2226,8 @@
       "description": "Chunks of paneer marinated in spiced yogurt and grilled until smoky and charred.",
       "price": 160,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2WY2YmIJtXrpmDToEHwJIOAcyBefjpFwXg&s",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2236,8 +2236,8 @@
       "description": "Crispy rolls filled with a mix of spiced vegetables, perfect for dipping in sauces.",
       "price": 150,
       "image": "https://i0.wp.com/thetwincookingproject.net/wp-content/uploads/2020/04/Chinese-Style-Vegetable-Spring-Rolls13.jpg?fit=1667%2C2500&ssl=1",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2246,8 +2246,8 @@
       "description": "Spicy stuffed pastry with a filling of mixed vegetables and spices, deep-fried until golden brown.",
       "price": 130,
       "image": "https://media.vogue.in/wp-content/uploads/2020/09/lilva-ni-kachori-1920x1080.jpg",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2256,8 +2256,8 @@
       "description": "Deep-fried balls made from sweet corn and cheese, seasoned with herbs and spices.",
       "price": 150,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lUkrwO4_tLnqhl5acVxKMvBgqqVUuQFogw&s",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2266,8 +2266,8 @@
       "description": "Mixed vegetable fritters served with spicy chutneys, a popular snack from Maharashtra.",
       "price": 140,
       "image": "https://madhurasrecipe.com/wp-content/uploads/2022/02/veg_nuggets_featured.jpg",
-      "categoryId": 3,
-      "subcategoryId": 12,
+      "categoryId": 8,
+      "subcategoryId": 37,
           "orgId": 2
     },
     {
@@ -2276,8 +2276,8 @@
       "description": "Marinated chicken chunks grilled to perfection, infused with spices and yogurt.",
       "price": 200,
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tandoorimumbai.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2286,8 +2286,8 @@
       "description": "Deep-fried fish fillets coated in a spiced gram flour batter, a popular snack from Amritsar.",
       "price": 220,
       "image": "https://sinfullyspicy.com/wp-content/uploads/2022/07/1200-by-1200-images-4.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2296,8 +2296,8 @@
       "description": "Tender mutton patties made from ground meat, lentils, and spices, shallow-fried until crisp.",
       "price": 250,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEBTvyGYpnf4Z7avNPE3ST4nOYhNaKbjsyQ&s",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2306,8 +2306,8 @@
       "description": "Spicy chicken pieces dipped in a gram flour batter and deep-fried until crispy.",
       "price": 180,
       "image": "https://www.allrecipes.com/thmb/Dqn-wx0S77ag4mfgWBfRBWBVuYo=/160x90/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-187822-baked-chicken-wings-4x3-5c7b4624c8554f3da5aabb7d3a91a209.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2316,8 +2316,8 @@
       "description": "Minced meat skewers seasoned with spices and grilled to smoky perfection.",
       "price": 240,
       "image": "https://cdn.culinarywonderland.com/photo/ra/ranveerbrar_muttonseekhkebab_recipe_902790.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2326,8 +2326,8 @@
       "description": "Crispy fried prawns coated in a light tempura batter, served with dipping sauces.",
       "price": 230,
       "image": "https://mogushop.asia/cdn/shop/articles/tempura-1_orig_750x.jpg?v=1589562939",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2336,8 +2336,8 @@
       "description": "Marinated lamb chops grilled in a tandoor, offering a smoky flavor and tender texture.",
       "price": 270,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77qpAcg5gpbaqlpJvHCtLi4ruaZ1VF9Pw9Q&s",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2346,8 +2346,8 @@
       "description": "Breaded and fried chicken pieces, served with a variety of dipping sauces.",
       "price": 160,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcjP0DfCSDh7kXZtBnThkF6UyI1I3m8K1Jw&s",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2356,8 +2356,8 @@
       "description": "Chicken wings stuffed with a flavorful filling, then baked or fried until crispy.",
       "price": 190,
       "image": "https://www.keyingredient.com/media/dd/4b/2174433c8f447dd4d69ac2b9653be13c72e4.jpg/rh/cambodian-stuffed-chicken-wings.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2366,8 +2366,8 @@
       "description": "Spiced mutton kebabs wrapped in a flatbread with fresh vegetables and sauces.",
       "price": 260,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sHVNYMjq5BrEl78GZfgqKBLFdOT3VR0D2Q&s",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2376,8 +2376,8 @@
       "description": "Tender chicken pieces marinated in a creamy, spiced yogurt mixture and grilled to perfection.",
       "price": 220,
       "image": "https://www.easycookingwithmolly.com/wp-content/uploads/2018/06/Indian-yogurt-mint-chicken-kebabs.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2386,8 +2386,8 @@
       "description": "Juicy prawns marinated in a blend of spices and yogurt, grilled to a smoky perfection.",
       "price": 240,
       "image": "https://glebekitchen.com/wp-content/uploads/2021/11/tandoorishrimptoppan.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2396,8 +2396,8 @@
       "description": "Spiced minced chicken skewers grilled until golden and juicy, a popular Indian snack.",
       "price": 210,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgK555PRUVCI7DACEa7uus5pErbSodU28oNw&s",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2406,8 +2406,8 @@
       "description": "Crispy pastry filled with spiced minced mutton, deep-fried until golden brown.",
       "price": 200,
       "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Best-Keema-Samosa-1.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2416,8 +2416,8 @@
       "description": "Grilled chicken wrapped in a flatbread with fresh vegetables and tangy sauces.",
       "price": 190,
       "image": "https://y6u5y7e3.rocketcdn.me/wp-content/uploads/2020/10/kathi-YouTube.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2426,8 +2426,8 @@
       "description": "Chicken pieces wrapped in crispy bacon, seasoned with herbs and spices.",
       "price": 250,
       "image": "https://www.barbarabakes.com/wp-content/uploads/2015/01/Bacon-Wrapped-Chicken-Stuffed-Jalapeno-Bites.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2436,8 +2436,8 @@
       "description": "Spiced meatballs made from minced mutton, served with a variety of chutneys.",
       "price": 230,
       "image": "https://res.cloudinary.com/dhsjpmqz9/f_auto,q_auto,w_700,c_fill,g_auto/Mutton_Kofta_oz6q9a",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2446,8 +2446,8 @@
       "description": "Chicken pieces marinated in a rich cream and spice mixture, then grilled until tender.",
       "price": 240,
       "image": "https://www.kothiyavunu.com/wp-content/uploads/2013/03/Chicken-Malai-Tikka-Afghan-Murg-Malai-Tikka-Kabab-28229.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2456,8 +2456,8 @@
       "description": "Marinated fish fillets grilled with a smoky flavor, perfect for a savory snack.",
       "price": 220,
       "image": "https://static.toiimg.com/thumb/55226065.cms?width=1200&height=900",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },
     {
@@ -2466,8 +2466,8 @@
       "description": "Chicken pieces dipped in a spiced gram flour batter and deep-fried until crispy.",
       "price": 180,
       "image": "https://yummyindiankitchen.com/wp-content/uploads/2015/12/chicken-pakoda-recipe-chicken-pakodi.jpg",
-      "categoryId": 3,
-      "subcategoryId": 13,
+      "categoryId": 8,
+      "subcategoryId": 38,
           "orgId": 2
     },{
     "id": 179,
