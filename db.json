@@ -302,37 +302,37 @@
     {
       "id": 33,
       "name": "Vegetarian Soups",
-      "categoryId": 7,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 34,
       "name": "Non-Vegetarian Soups",
-      "categoryId": 7,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 35,
       "name": "Vegetarian Salads",
-      "categoryId": 7,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 36,
       "name": "Non-Vegetarian Salads",
-      "categoryId": 7,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 37,
       "name": "Vegetarian Finger Foods",
-      "categoryId": 7,
+      "categoryId": 8,
       "orgId": 2
     },
     {
       "id": 38,
       "name": "Non-Vegetarian Finger Foods",
-      "categoryId": 7,
+      "categoryId": 8,
       "orgId": 2
     },
     {
@@ -1633,8 +1633,8 @@
     "description": "A creamy soup made with ripe tomatoes and fresh basil, served with a drizzle of olive oil.",
     "price": 150,
     "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/09/tomato-basil-soup-recipe-580x809.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
     "orgId": 2
   },
   {
@@ -1643,8 +1643,8 @@
     "description": "Rich and creamy bisque made from a blend of assorted mushrooms, herbs, and a hint of garlic.",
     "price": 180,
     "image": "https://provincetownindependent.org/wp-content/uploads/2020/01/Shorr-Mushroom-Bisque-Photo-No-Credit-600x400.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
     "orgId": 2
   },
   {
@@ -1653,8 +1653,8 @@
     "description": "Smooth and velvety soup made from roasted butternut squash, ginger, and a touch of cream.",
     "price": 170,
     "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2022/11/Butternut-Squash-Soup-4-1025x1536.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
     "orgId": 2
   },
   {
@@ -1663,8 +1663,8 @@
     "description": "A hearty Italian-style soup with mixed vegetables, beans, and pasta, in a rich tomato broth.",
     "price": 160,
     "image": "https://minimalistbaker.com/wp-content/uploads/2017/08/PERFECT-1-Pot-Vegan-Minestrone-Vegetables-beans-pasta-SO-delicious-and-healthy-minestrone-soup-recipe-vegan-glutenfree-minimalistbaker-5-768x1152.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
     "orgId": 2
   },
   {
@@ -1673,8 +1673,8 @@
     "description": "Comforting and nourishing soup made with lentils, carrots, celery, and spices.",
     "price": 140,
     "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/01/greek-red-lentil-soup-recipe-4-768x1152.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
      "orgId": 2
   },
   {
@@ -1683,8 +1683,8 @@
     "description": "A light and clear soup with fresh vegetables.",
     "price": 80,
     "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-clear-soup-1-720x480.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
          "orgId": 2
   },
   {
@@ -1693,8 +1693,8 @@
     "description": "A smaller serving of our light and clear vegetable soup.",
     "price": 100,
     "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-clear-soup-1-720x480.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
          "orgId": 2
 
   },
@@ -1704,8 +1704,8 @@
     "description": "A spicy and tangy Chinese-style soup with mixed vegetables and crispy noodles.",
     "price": 100,
     "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
          "orgId": 2
 
   },
@@ -1715,8 +1715,8 @@
     "description": "A smaller serving of our spicy and tangy Chinese-style vegetable soup.",
     "price": 130,
     "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
          "orgId": 2
   },
   {
@@ -1725,8 +1725,8 @@
     "description": "Spicy soup with vegetable Manchurian balls in a flavorful broth.",
     "price": 150,
     "image": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2021/11/Manchow-Soup.jpg?w=666&ssl=1",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
         "orgId": 1
   },
   {
@@ -1735,8 +1735,8 @@
     "description": "A smaller serving of our spicy soup with vegetable Manchurian balls.",
     "price": 160,
     "image": "https://www.thespruceeats.com/thmb/8omoj5zmE0fM70g88SttPNRkHmI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vegetarian-tom-yum-soup-3217762-hero-01-4872510cb5f24d9480e7a2f4b8f23c57.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
         "orgId": 2
   },
   {
@@ -1745,8 +1745,8 @@
     "description": "A classic, smooth tomato soup seasoned with herbs and spices.",
     "price": 130,
     "image": "https://cdn-lbppn.nitrocdn.com/TIvUOgkSVuwIZbJQMoNKauSIODDirNaR/assets/images/optimized/rev-3600644/daenskitchen.com/wp-content/uploads/2022/06/Tomato-Soup-Daens-Kitchen-High-Res-6-768x1023.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
         "orgId": 2
   },
   {
@@ -1755,8 +1755,8 @@
     "description": "A smaller serving of our classic smooth tomato soup.",
     "price": 160,
     "image": "https://cdn-lbppn.nitrocdn.com/TIvUOgkSVuwIZbJQMoNKauSIODDirNaR/assets/images/optimized/rev-3600644/daenskitchen.com/wp-content/uploads/2022/06/Tomato-Soup-Daens-Kitchen-High-Res-6-768x1023.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
         "orgId": 2
   },
   
@@ -1766,8 +1766,8 @@
     "description": "Flavorful soup with roasted garlic and vegetables, seasoned to perfection.",
     "price": 140,
     "image": "https://i.ytimg.com/vi/r63FjYBi5XA/maxresdefault.jpg",
-    "categoryId": 3,
-    "subcategoryId": 8,
+    "categoryId": 7,
+    "subcategoryId": 33,
         "orgId": 2
   },
   {
@@ -1776,8 +1776,8 @@
     "description": "A classic chicken soup made with tender chicken pieces, vegetables, and herbs.",
     "price": 180,
     "image": "https://www.pressurecookrecipes.com/wp-content/uploads/2024/02/instant-pot-chicken-soup-770x556.webp",
-    "categoryId": 3,
-    "subcategoryId": 9,
+    "categoryId": 7,
+    "subcategoryId": 33,
         "orgId": 2
   },
     {
@@ -1786,8 +1786,8 @@
       "description": "A rich and creamy soup with shrimp, clams, fish, and a hint of white wine.",
       "price": 220,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XyQZ9UwXrzHfM4lrLX-G2Ut-DJfZpBAF3g&s",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1796,8 +1796,8 @@
       "description": "Spicy and tangy soup with shredded chicken, mushrooms, and bamboo shoots.",
       "price": 160,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xHNTAliSJmDN9LHKfgi_vH6q8E3nCt-1WQ&s",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1806,8 +1806,8 @@
       "description": "A flavorful soup with slow-cooked lamb shanks, root vegetables, and aromatic spices.",
       "price": 240,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FM9TPkzLxhVZ_CeZiBLD7Lyb61wAfnVbUw&s",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1816,8 +1816,8 @@
       "description": "A spicy and sour Thai soup with shrimp, lemongrass, kaffir lime leaves, and chili.",
       "price": 200,
       "image": "https://www.allrecipes.com/thmb/6lh6z4C0JUCsLDGNk3WBQ0w1NIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7713245-9399026bd1234ae5958535e67736caa6.jpg",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1826,8 +1826,8 @@
       "description": "A smooth and rich soup made from prawns, cream, and a hint of brandy.",
       "price": 210,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5XS6_nJBcjkYkz55UFvmjTv4ZPFz2OUfpw&s",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1836,8 +1836,8 @@
       "description": "A comforting soup with tender chicken, sweet corn, and a light broth.",
       "price": 170,
       "image": "https://www.unileverfoodsolutions.lk/dam/global-ufs/mcos/meps/sri-lanka/calcmenu/recipes/LK-recipes/general/chicken-and-sweet-corn-soup/main-header.jpg",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1846,8 +1846,8 @@
       "description": "Hearty soup with beef chunks, barley, vegetables, and herbs.",
       "price": 190,
       "image": "https://kalynskitchen.com/wp-content/uploads/2012/02/1-chicken-barley-soup-500x500-kalynskitchen-320x320.jpg",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1856,8 +1856,8 @@
       "description": "Rich and flavorful soup made with tender duck meat, vegetables, and spices.",
       "price": 250,
       "image": "https://happietrio.com/wp-content/uploads/2018/05/NanduRasam2.jpg",
-      "categoryId": 3,
-      "subcategoryId":9,
+      "categoryId": 8,
+      "subcategoryId":34,
           "orgId": 2
     },
     {
@@ -1866,8 +1866,8 @@
       "description": "A bold soup with shrimp, chili, and a blend of spices.",
       "price": 210,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVY2i94F_jJdYdVxdXAe3uUcwREpSrFmwYQ&s",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1876,8 +1876,8 @@
       "description": "A light and clear soup made with tender chicken and vegetables.",
       "price": 170,
       "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/07/chicken-clear-soup-1.jpg",
-      "categoryId": 1,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 3
     },
     {
@@ -1886,8 +1886,8 @@
       "description": "A comforting and sweet soup with corn and tender chicken pieces.",
       "price": 180,
       "image": "https://images.herzindagi.info/image/2021/Jul/corn-chicken-soup-main.jpg",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1896,8 +1896,8 @@
       "description": "Delicate and flavorful soup made with crab meat and a light broth.",
       "price": 250,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYGl9l85nrM4YfO4f36jQgeIfBUhy5nWdgA&s",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1906,8 +1906,8 @@
       "description": "Spicy and aromatic chicken soup with traditional Chettinad spices.",
       "price": 200,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4d3mFBzxu3adQB86dYw3c7CAvmOh8TBZ0Ag&s",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1916,8 +1916,8 @@
       "description": "A Chinese-style soup with chicken, mushrooms, and a blend of spices.",
       "price": 190,
       "image": "https://i.ytimg.com/vi/JALxGxrPlZE/hqdefault.jpg",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1926,8 +1926,8 @@
       "description": "A tangy and spicy soup with shredded chicken, mushrooms, and a touch of vinegar.",
       "price": 170,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4SAKVke_g_fakfmYgRWHuMP4Sq-BkPQ-6A&s",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1936,8 +1936,8 @@
       "description": "Rich and hearty soup made with tender mutton pieces and flavorful spices.",
       "price": 220,
       "image": "https://i.ytimg.com/vi/npUZoPXxqxM/maxresdefault.jpg",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1946,8 +1946,8 @@
       "description": "Traditional South Indian soup made with bone-in mutton and spices.",
       "price": 230,
       "image": "https://www.awesomecuisine.com/wp-content/uploads/2020/01/aatu-kaal-soup.jpg",
-      "categoryId": 3,
-      "subcategoryId": 9,
+      "categoryId": 8,
+      "subcategoryId": 34,
           "orgId": 2
     },
     {
@@ -1956,8 +1956,8 @@
       "description": "Freshly shredded carrots tossed with a tangy black grape dressing.",
       "price": 120,
       "image": "https://i.ndtvimg.com/i/2018-02/carrot-salad_620x350_51517485756.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -1966,8 +1966,8 @@
       "description": "Nutritious salad with barley, fresh vegetables, and a light vinaigrette.",
       "price": 130,
       "image": "https://i.ndtvimg.com/i/2015-09/barley-625_625x350_41441360371.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -1976,8 +1976,8 @@
       "description": "Crisp green beans mixed with a zesty lemon dressing and cherry tomatoes.",
       "price": 110,
       "image": "https://i.ndtvimg.com/i/2015-09/beans-625_625x350_41441360390.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -1986,8 +1986,8 @@
       "description": "Refreshing salad with green apples, celery, and a honey mustard dressing.",
       "price": 140,
       "image": "https://i.ndtvimg.com/i/2017-10/green-apple-salad_620x330_71509080200.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -1996,8 +1996,8 @@
       "description": "A mix of fresh leafy greens topped with crunchy walnuts and a balsamic vinaigrette.",
       "price": 150,
       "image": "https://i.ndtvimg.com/i/2015-09/walnut_625x350_81441360462.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -2006,8 +2006,8 @@
       "description": "Sweet and tangy pickled beetroot served with crumbled feta cheese and arugula.",
       "price": 160,
       "image": "https://i.ndtvimg.com/i/2015-09/beetroot-625_625x350_81441360540.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -2016,8 +2016,8 @@
       "description": "Hearty wheat berry salad with a smoky chipotle dressing and toasted walnuts.",
       "price": 170,
       "image": "https://i.ndtvimg.com/i/2017-10/chipotle-walnut-salad_620x330_61509081970.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -2026,8 +2026,8 @@
       "description": "A colorful salad with ribbon-cut vegetables and a tangy citrus dressing.",
       "price": 130,
       "image": "https://i.ndtvimg.com/i/2015-09/ribon-salad-625_625x350_61441360635.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -2036,8 +2036,8 @@
       "description": "Refreshing watermelon salad with feta cheese, mint, and olives.",
       "price": 180,
       "image": "https://i.ndtvimg.com/i/2015-09/salad-625_625x350_81441360886.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -2046,8 +2046,8 @@
       "description": "Protein-packed salad with quinoa, lentils, and a medley of fresh vegetables.",
       "price": 160,
       "image": "https://i.ndtvimg.com/i/2015-09/quinoa-salad_625x350_81441360944.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -2056,8 +2056,8 @@
       "description": "A hearty salad with a mix of beans, corn, and a zesty lime dressing.",
       "price": 140,
       "image": "https://c.ndtvimg.com/2018-10/krs4msm8_bean-salad_625x300_19_October_18.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -2066,8 +2066,8 @@
       "description": "Fresh cucumber salad with chunks of paneer cheese and a light herb dressing.",
       "price": 150,
       "image": "https://c.ndtvimg.com/2021-07/403fd0vg_salad_625x300_22_July_21.jpg",
-      "categoryId": 3,
-      "subcategoryId": 10,
+      "categoryId": 8,
+      "subcategoryId": 35,
           "orgId": 2
     },
     {
@@ -2076,8 +2076,8 @@
       "description": "A vibrant salad with mixed greens, grilled chicken, and an Asian-inspired sesame dressing.",
       "price": 200,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Asian-Mix-Chicken-Salad.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2086,8 +2086,8 @@
       "description": "Classic Caesar salad with grilled chicken, crispy croutons, and Parmesan cheese.",
       "price": 220,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Caesars-Chicken-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2096,8 +2096,8 @@
       "description": "A hearty salad with penne pasta, grilled chicken, vegetables, and a creamy dressing.",
       "price": 210,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Chicken-Penne-Pasta-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2106,8 +2106,8 @@
       "description": "Fresh salad with grilled chicken, mixed greens, and a light vinaigrette.",
       "price": 180,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Grilled-Chicken-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2116,8 +2116,8 @@
       "description": "Tropical salad with grilled chicken, pineapple, and a sweet and tangy dressing.",
       "price": 190,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Hawaiian-Chicken-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2126,8 +2126,8 @@
       "description": "Salad with grilled chicken, Italian herbs, olives, and a balsamic vinaigrette.",
       "price": 200,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Italian-Chicken-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2136,8 +2136,8 @@
       "description": "A robust salad with a mix of lamb and chicken, fresh vegetables, and a tangy dressing.",
       "price": 220,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Mixed-Lamb-and-Chicken-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2146,8 +2146,8 @@
       "description": "Hearty salad with a variety of meats including chicken, beef, and lamb, topped with fresh greens.",
       "price": 240,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Mixed-Meat-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2156,8 +2156,8 @@
       "description": "Traditional Russian salad with chicken, vegetables, and a creamy mayonnaise dressing.",
       "price": 210,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Russian-Chicken-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2166,8 +2166,8 @@
       "description": "Classic Waldorf salad with chicken, apples, walnuts, and a light yogurt dressing.",
       "price": 200,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Waldorf-Chicken-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
@@ -2176,8 +2176,8 @@
       "description": "A hearty salad with tender zucchini, potatoes, and a zesty lemon dressing.",
       "price": 180,
       "image": "https://deliverfood2me.in/wp-content/uploads/2023/05/Zucchini-and-Potato-Salad-420x420.jpg",
-      "categoryId": 3,
-      "subcategoryId": 11,
+      "categoryId": 8,
+      "subcategoryId": 36,
           "orgId": 2
     },
     {
