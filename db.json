@@ -3427,8 +3427,8 @@
     "description": "A traditional Hyderabadi-style biryani made with basmati rice, mixed vegetables, and a blend of exotic spices.",
     "price": 240,
     "image": "https://www.cookshideout.com/wp-content/uploads/2017/03/Hyderabadi-Veg-Biryani-Thali3S-720x1084.jpg",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   },
   {
@@ -3437,8 +3437,8 @@
     "description": "Flavorful basmati rice cooked with mushrooms, peas, and a mix of Indian spices.",
     "price": 230,
     "image": "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2016/08/Mushroom-Corn-Peas-Pulao.jpg?w=736&ssl=1",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   },
   {
@@ -3447,8 +3447,8 @@
     "description": "Healthy spinach-based biryani with mixed vegetables and aromatic spices.",
     "price": 210,
     "image": "https://www.indianveggiedelight.com/wp-content/uploads/2019/06/palak_biryani-1-768x1024.jpg",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   },
   {
@@ -3457,8 +3457,8 @@
     "description": "Mild and sweet biryani cooked with basmati rice, nuts, dry fruits, and mild spices.",
     "price": 250,
     "image": "https://i0.wp.com/aartimadan.com/wp-content/uploads/2020/12/Kashmiri-Pulao.jpg?resize=768%2C431&ssl=1",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   },
   {
@@ -3467,8 +3467,8 @@
     "description": "Spinach-based biryani with paneer cubes, cooked with basmati rice and Indian spices.",
     "price": 240,
     "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Instant-Pot-Paneer-Biryani.jpg",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   },
   {
@@ -3477,8 +3477,8 @@
     "description": "Spicy biryani with mixed vegetables, peppers, onions, and a tangy tomato-based sauce.",
     "price": 230,
     "image": "https://i0.wp.com/www.blissofcooking.com/wp-content/uploads/2018/07/Vegetable-Jalfrezi-Feature.jpg?w=720&ssl=1",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   },
   {
@@ -3487,8 +3487,8 @@
     "description": "Rich and aromatic biryani made with basmati rice, vegetables, and a blend of Mughlai spices.",
     "price": 260,
     "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/12/mughlai-veg-biryani-recipe.jpg",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   },
   {
@@ -3497,8 +3497,8 @@
     "description": "A unique biryani cooked on a flat tawa, with vegetables, spices, and basmati rice.",
     "price": 220,
     "image": "https://www.foodfusion.com/wp-content/uploads/2018/07/Tawa-Biryani-Recipe-by-Food-Fusion-1.jpg",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   },
   {
@@ -3507,8 +3507,8 @@
     "description": "Aromatic biryani from the Awadhi cuisine, made with vegetables, basmati rice, and mild spices.",
     "price": 240,
     "image": "https://cookwithrenu.com/wp-content/uploads/2019/04/Awadhi-Vegetable-Biryani_4.jpg.webp",
-    "categoryId": 4,
-    "subcategoryId": 14,
+    "categoryId": 16,
+    "subcategoryId": 70,
         "orgId": 3
   }
   ],
