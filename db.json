@@ -3683,19 +3683,26 @@
       "id": "1",
       "orgId": "1",
       "enableRestaurantManagement": false,
-      "enableHistory": true
+      "enableHistoryManagement": true,
+      "enableAdminManagement" : false,
+      "enableMenuManagement" : false
+      
     },  
     {
       "id": "2",
       "orgId": "2",
       "enableRestaurantManagement": false,
-      "enableHistory": true
+      "enableHistoryManagement": true,
+      "enableAdminManagement" : false,
+      "enableMenuManagement" : false
     }, 
     {
       "id": "3",
       "orgId": "3",
       "enableRestaurantManagement": false,
-      "enableHistory": true
+      "enableHistoryManagement": true,
+      "enableAdminManagement" : false,
+      "enableMenuManagement" : false
     }
       
   ]
