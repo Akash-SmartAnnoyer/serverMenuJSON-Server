@@ -3645,7 +3645,7 @@
         -74.006
       ],
       "seatingCapacity": 50,
-      "peopleCount": "Indian"
+      "peopleCount": "25"
     },
     {
       "id": "2",
@@ -3660,7 +3660,7 @@
         -118.2437
       ],
       "seatingCapacity": 30,
-      "peopleCount": "Japanese"
+      "peopleCount": "15"
     },
         {
       "id": "3",
@@ -3675,7 +3675,7 @@
         -74.006
       ],
       "seatingCapacity": 50,
-      "peopleCount": "Indian"
+      "peopleCount": "22"
     }
   ],
     "settings": [
